@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PK93-05
+- 👀 I’m interested in Data Analysis  
+- 🌱 I’m currently learning PowerBi, SQL and Python 
